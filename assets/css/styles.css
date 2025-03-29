@@ -1,0 +1,49 @@
+:root{
+    --bs-link-color: #198754;
+    --bs-link-hover-color: #11643d;
+}
+
+.navbar-brand img{
+    width: 50px;
+}
+
+.btn{
+    --bs-btn-bg: #198754;
+    --bs-btn-border-color: #146c43;
+    --bs-btn-hover-bg: #146c43;
+    --bs-btn-hover-border-color: #198754;
+    --bs-btn-active-bg: #12643e;
+}
+
+/* Adjusting the carousel size */
+
+.carousel-item{
+    height: 400px;
+
+    & img{
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+}
+
+.carousel-item::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(Transparent, rgb(30,30,30));
+    position: absolute;
+}
+
+.card-menu img{
+    height: 300px;
+    object-fit: cover;
+}
+
+main{
+    margin-top: 5rem;
+}
+
+section{
+    scroll-margin-top: 6rem;
+}
