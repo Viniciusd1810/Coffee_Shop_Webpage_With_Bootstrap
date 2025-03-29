@@ -10,5 +10,5 @@ Git Page: [https://viniciusd1810.github.io/Discord_Site_Clone_With_CSS/](https:/
 ### Desktop View
 ![desktop](https://github.com/user-attachments/assets/cf62eb52-4fef-43ca-992a-f873ca773b49)
 
-###Modal with Google maps location
+### Modal with Google maps location
 ![modal](https://github.com/user-attachments/assets/a21f502b-119f-42ca-bfcc-dc17363bd1e7)
