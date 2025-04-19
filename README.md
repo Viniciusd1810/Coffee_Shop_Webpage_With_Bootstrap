@@ -2,7 +2,6 @@
 A web page for a ficticious coffee shop using bootstrap
 
 ## Project Demonstration
-Git Page: [https://viniciusd1810.github.io/Coffee_Shop_Webpage_With_Bootstrap/]
 
 ### Mobile View
 ![mobile](https://github.com/user-attachments/assets/274ac4ab-dcbe-4cb2-a4b3-171387261ae1)
