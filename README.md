@@ -1,5 +1,5 @@
 # Coffee_Shop_Webpage_With_Bootstrap
-A web page for a ficticious coffee shop using bootstrap
+Developed a fictional coffee shop website using HTML, CSS, and Bootstrap framework. Utilized Bootstrap components to build a fully responsive, mobile-first design, customizing themes and layouts to match the brand style.
 
 ## Project Demonstration
 
